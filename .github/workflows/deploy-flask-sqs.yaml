@@ -3,8 +3,7 @@ name: Deploy Flask SQS App
 on:
   push:
     branches:
-      - dev
-      - uat
+      - main
     paths:
       - 'flask-sqs-service/**'
                                                

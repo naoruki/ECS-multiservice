@@ -3,8 +3,7 @@ name: Deploy Flask DynamoDB App
 on:
   push:
     branches:
-      - dev
-      - uat
+      - main
     paths:
       - 'flask-ddb-service/**'
                                                
