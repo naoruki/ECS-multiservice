@@ -10,3 +10,4 @@ EXPOSE 5001
 
 ENTRYPOINT ["python"]
 CMD ["app.py"]
+#Trigger deployment
