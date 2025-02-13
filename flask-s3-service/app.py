@@ -53,4 +53,4 @@ def upload_file():
         return f"Error uploading file: {str(exc)}", 500
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5003)
+    app.run(host="0.0.0.0", port=5001)
