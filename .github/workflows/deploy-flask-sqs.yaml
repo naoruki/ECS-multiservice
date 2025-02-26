@@ -1,4 +1,4 @@
-name: Deploy Flask SQS App
+name: Deploy Flask SQS App1
 
 on:
   push:
